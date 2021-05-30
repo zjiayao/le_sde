@@ -49,8 +49,8 @@ submitted to NeurIPS 2021 as [Paper10724](https://openreview.net/forum?id=zEuLFJ
   Although all simulations can be run on your machine, it is quite time-consuming.
   Data from our experiments can be downloaded from the following **anonymous** Dropbox links:
   
-  - [lesde_exp_data.tar.gz](https://www.dropbox.com/s/kmn08oquefkxqvr/lesde_exp_data.tar.gz?dl=1) (1.1GB): data for reproducing Figures 1-4.
-  - [lesde_sim_data.tar.gz]() (2.6GB): data for reproducing Figure 5.
+  - [lesde_exp_data.tar.gz](https://www.dropbox.com/s/kmn08oquefkxqvr/lesde_exp_data.tar.gz?dl=1) (1.02GB): ``*.csv`` files for reproducing Figures 1-4.
+  - [lesde_sim_data.tar.gz](https://www.dropbox.com/s/q1ruxc674ye6b3b/lesde_sim_data.tar.gz?dl=1) (2.54GB): ``*.npy`` files for reproducing Figure 5.
 
   After downloading those tarballs, extract them into ``./exp_data`` (or change the ``EXP_DIR``
   variable in the notebooks accordingly).
