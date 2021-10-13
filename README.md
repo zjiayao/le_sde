@@ -1,8 +1,22 @@
 # Imitating Deep Learning Dynamics via Locally Elastic Stochastic Differential Equations
 
-This repo consists of code for reproducing the experiment result and figures in the paper
-**Imitating Deep Learning Dynamics via Locally Elastic Stochastic Differential Equations**
-submitted to NeurIPS 2021 as [Paper10724](https://openreview.net/forum?id=zEuLFJCRk4X).
+This repo contains official code for the NeurIPS 2021 paper
+**[Imitating Deep Learning Dynamics via Locally Elastic Stochastic Differential Equations](https://arxiv.org/abs/2110.05960v1)** by
+[Jiayao Zhang](https://www.jiayao-zhang.com), [Hua Wang](https://statistics.wharton.upenn.edu/profile/wanghua/), [Weijie J. Su](https://statistics.wharton.upenn.edu/profile/suw/).
+
+Discussions welcome, please submit via [Discussions](https://github.com/zjiayao/le_sde/discussions).
+You can also read the reviews on [OpenReview](https://openreview.net/forum?id=zEuLFJCRk4X).
+
+```bib
+@misc{zhang2021imitating,
+      title={Imitating Deep Learning Dynamics via Locally Elastic Stochastic Differential Equations}, 
+      author={Jiayao Zhang and Hua Wang and Weijie J. Su},
+      year={2021},
+      eprint={2110.05960},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
 
 # Reproducing Experiments
 ## Dependencies
